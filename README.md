@@ -38,3 +38,42 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 way to win: 1Path_to_treasure
 
 #2 Coin toss
+#3 Rock Paper Scissors Game
+ __      __
+( _\    /_ )
+ \ _\  /_ / 
+  \ _\/_ /_ _
+  |_____/_/ /|
+  (  (_)__)J-)
+  (  /`.,   /
+   \/  ;   /
+    | === |
+    
+Rules:  What are the shapes of Rock Paper Scissors?
+
+ ROCK :The rock is when you place your hand into the form of a simple fist.
+     _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+PAPER :The paper is when you place your hand in an outstretched position.
+     _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+SCISSORS: This is when you hold your fist with your index and middle finger pointing outwards in a V shape.
+     _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+
+
+
