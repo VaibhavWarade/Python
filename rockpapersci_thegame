@@ -1,0 +1,54 @@
+import random
+rock = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+paper = '''
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+scissors = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+
+
+choice=input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. \n").lower()
+if choice=='rock':
+  choice=rock
+elif choice=='paper':
+  choice=paper
+elif choice=='scissors':
+  choice=scissors
+
+game_choices=[rock,paper,scissors]
+computer=random.choice(game_choices)
+
+if choice==computer:
+  print("Draw ¯\_(ツ)_/¯ \n You: "+ computer  + " v/s Computer:" + computer)
+elif choice==rock and computer==scissors:
+  print("You win!!  \(ᵔᵕᵔ)/ \n You: "+ rock +" v/s Computer:"+computer)
+elif choice==scissors and computer==paper:
+    print("You win!!  \(ᵔᵕᵔ)/ \n "+ scissors +" v/s Computer:"+computer)
+elif choice==paper and computer==rock:
+    print("You win!!  \(ᵔᵕᵔ)/ \n You: "+ paper+" v/s Computer:" +computer)
+else:
+    print("Sorry You loose (ಥ⌣ಥ) \n You:" + choice +"  vs  Computer:"+ computer)
+  
+
+  
+  
