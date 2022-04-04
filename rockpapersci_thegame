@@ -27,13 +27,15 @@ scissors = '''
 '''
 
 
-choice=input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. \n").lower()
+choice=input("What do you choose? Type Rock,  Paper or  Scissors. \n").lower()
 if choice=='rock':
   choice=rock
 elif choice=='paper':
   choice=paper
 elif choice=='scissors':
   choice=scissors
+else:
+    print("Invalid input please try again, Type only from Rock,  Paper or  Scissors")
 
 game_choices=[rock,paper,scissors]
 computer=random.choice(game_choices)
