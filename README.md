@@ -78,3 +78,4 @@ SCISSORS: This is when you hold your fist with your index and middle finger poin
 #4 Random password generator
 
 #5 Solution to Reeborg's basic python maze programming riddle
+link to challenge: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
