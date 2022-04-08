@@ -36,6 +36,8 @@ def encrypt(text,shift):
     while text[i]!=alphabet[j]:
       j=j+1;
     f=shift+j
+    if f>25:
+        f=f-26
     word=word+alphabet[f]
   return word
 
