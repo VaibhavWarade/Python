@@ -84,4 +84,12 @@ link to challenge: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worl
    Classic hangman word guessing game made with simple python code. Already guessed condition is avoided for fun!!
 
 #7 Cesar Cipher
+      _       _               
+     (_)     | |              
+  ___ _ _ __ | |__   ___ _ __ 
+ / __| | '_ \| '_ \ / _ \ '__|
+| (__| | |_) | | | |  __/ |   
+ \___|_| .__/|_| |_|\___|_|   
+       | |                    
+       |_|                    
    Basic cesar cipher with encode and decode functionality by word character shift from 26 chars from english dictionary.
