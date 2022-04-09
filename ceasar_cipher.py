@@ -37,8 +37,7 @@ def encrypt(text,shift):
       j=j+1;
     f=shift+j
     if f>25:
-        f=f-26
-    word=word+alphabet[f]
+       f=f-int(round((f/26)))*26    word=word+alphabet[f]
   return word
 
 def decrypt(text,shift):
