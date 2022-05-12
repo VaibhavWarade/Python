@@ -93,3 +93,12 @@ link to challenge: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worl
        | |                    
        |_|                    
    Basic cesar cipher with encode and decode functionality by word character shift from 26 chars from english dictionary.
+
+#8 Number Guessing Game
+  _____ _     _____ ____  ____    _____  _     _____   _      _     _      ____  _____ ____ 
+/  __// \ /\/  __// ___\/ ___\  /__ __\/ \ /|/  __/  / \  /|/ \ /\/ \__/|/  _ \/  __//  __\
+| |  _| | |||  \  |    \|    \    / \  | |_|||  \    | |\ ||| | ||| |\/||| | //|  \  |  \/|
+| |_//| \_/||  /_ \___ |\___ |    | |  | | |||  /_   | | \||| \_/|| |  ||| |_\\|  /_ |    /
+\____\\____/\____\\____/\____/    \_/  \_/ \|\____\  \_/  \|\____/\_/  \|\____/\____\\_/\_\
+                                                                                           
+ 
